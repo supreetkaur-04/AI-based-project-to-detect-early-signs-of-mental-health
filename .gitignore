@@ -1,0 +1,87 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# PyInstaller
+*.spec
+
+# Virtual environment folders
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Python wheels
+*.whl
+
+# Datasets
+datasets/
+*.csv
+*.tsv
+*.zip
+*.tar.gz
+*.h5
+*.npz
+*.npy
+*.pkl
+*.joblib
+
+# Models
+models/
+*.pt
+*.pth
+*.pb
+*.onnx
+*.tflite
+*.ckpt
+*.weights
+
+# Logs and outputs
+logs/
+*.log
+output/
+runs/
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Raspberry Pi-specific
+*.deb
+*.img
+*.iso
+
+# Media files
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webm
+
+# Telegram Bot Token (if saved in a file)
+bot_token.txt
+secrets.json

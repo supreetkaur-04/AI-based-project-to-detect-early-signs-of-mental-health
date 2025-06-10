@@ -1,0 +1,9 @@
+torch==2.7.1
+torchvision==0.22.1
+opencv-python==4.5.5.62
+mediapipe==0.10.21
+numpy>=1.21.2
+joblib==1.2.0
+Pillow>=9.3.0
+telegram==2.31.0
+python-telegram-bot
